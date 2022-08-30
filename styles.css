@@ -1,0 +1,29 @@
+body {
+  height: auto;
+  width: 100%;
+}
+#t {
+  height: 1000px;
+}
+#t tr {
+  height: 100px;
+}
+td {
+  width: 200px;
+}
+.odd {
+  background-color: blue;
+}
+.even {
+  background-color: black;
+}
+
+.hover {
+  background: yellow;
+}
+.hover-next {
+  background: black;
+}
+.hover-before {
+  background: grey;
+}
